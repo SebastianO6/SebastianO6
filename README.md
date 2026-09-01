@@ -1,77 +1,131 @@
-# 👋 Hey, I'm Bill Sebastian
+<div align="center">
 
-### Software Engineer • Full-Stack Developer • AI Builder
+```text
+██████╗ ██╗██╗     ██╗
+██╔══██╗██║██║     ██║
+██████╔╝██║██║     ██║
+██╔══██╗██║██║     ██║
+██████╔╝██║███████╗██║
+╚═════╝ ╚═╝╚══════╝╚═╝
+```
 
-> **I turn ideas into useful software.**
+# `BILL.EXE`
 
-I'm a software engineering student and full-stack developer who enjoys building applications from the ground up — from the interface users see to the APIs and databases behind it.
+### SOFTWARE ENGINEER · FULL-STACK BUILDER · AI EXPLORER
 
-Currently exploring **AI, intelligent applications, and AI agents** while continuing to sharpen my full-stack development skills.
+`Nairobi, Kenya` → `the internet`
 
 <br>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge\&logo=vercel\&logoColor=white)](https://your-portfolio-url.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/yourusername)
-[![Email](https://img.shields.io/badge/Email-000?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:your@email.com)
+**STATUS**
+
+`● ONLINE`
+
+**CURRENT MISSION**
+
+`BUILDING INTELLIGENT SOFTWARE`
+
+</div>
 
 ---
 
-## 🧠 About Me
+```text
+┌─────────────────────────────────────────────────────────────┐
+│                                                             │
+│   > whoami                                                  │
+│                                                             │
+│   Bill Sebastian                                            │
+│   Software Engineer & Builder                               │
+│                                                             │
+│   I like turning random ideas into things that actually     │
+│   work.                                                     │
+│                                                             │
+│   Currently somewhere between full-stack development,       │
+│   artificial intelligence and "wait... I can build that?"   │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+```
 
-```javascript
-const bill = {
-    role: "Software Engineer",
-    location: "Nairobi, Kenya",
-    focus: ["Full-Stack Development", "AI", "Automation"],
-    frontend: ["React", "JavaScript", "HTML", "CSS"],
-    backend: ["Python", "Flask", "REST APIs"],
-    databases: ["PostgreSQL", "SQLite"],
-    tools: ["Git", "GitHub", "Vite", "VS Code"],
-    currentlyLearning: ["AI Agents", "LLMs", "System Design"],
-    mindset: "Build → Break → Learn → Improve"
-};
+## `01 // CURRENTLY_RUNNING`
+
+```text
+┌───────────────────────┬─────────────────────────────────────┐
+│ PROCESS               │ STATUS                              │
+├───────────────────────┼─────────────────────────────────────┤
+│ Full-Stack Development│ ████████████████████░  RUNNING      │
+│ AI Engineering        │ ████████████████░░░░  LEARNING      │
+│ React                 │ ████████████████████  SHIPPING      │
+│ Python                │ ███████████████████░  BUILDING      │
+│ AI Agents             │ ███████████░░░░░░░░  EXPLORING     │
+│ System Design         │ ████████░░░░░░░░░░░  LOADING       │
+└───────────────────────┴─────────────────────────────────────┘
 ```
 
 ---
 
-# ⚡ Tech Stack
+# `02 // TECH INVENTORY`
 
-### Frontend
+### `FRONTEND`
 
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,js,react,vite" />
 </p>
 
-### Backend & Databases
+### `BACKEND`
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,flask,postgres,sqlite" />
+<img src="https://skillicons.dev/icons?i=python,flask,nodejs" />
 </p>
 
-### Tools & Platforms
+### `DATABASE`
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,sqlite" />
+</p>
+
+### `TOOLS`
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,wordpress" />
 </p>
 
+```text
+┌─────────────────────────────────────────────────────────────┐
+│                                                             │
+│  I don't collect technologies.                              │
+│                                                             │
+│  I collect problems worth solving.                          │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+```
+
 ---
 
-# 🚀 What I Build
+# `03 // SELECTED BUILDS`
 
 <table>
 <tr>
 <td width="50%">
 
-### 🌐 Full-Stack Applications
+## 👁️ VISION
 
-Building complete web applications with modern frontend frameworks, REST APIs, databases and authentication.
+**Artificial Vision System**
+
+Computer vision + sensors + audio feedback designed around assistive technology.
+
+`AI` `Computer Vision` `Python` `ESP32`
 
 </td>
+
 <td width="50%">
 
-### 🤖 AI Applications
+## 🤝 HARAMBEE
 
-Exploring ways to combine software engineering with AI to create applications that can understand, automate and solve real problems.
+**Digital Donation Platform**
+
+A platform for digitizing fundraising, donations and donation management.
+
+`React` `Flask` `PostgreSQL` `M-Pesa`
 
 </td>
 </tr>
@@ -79,229 +133,222 @@ Exploring ways to combine software engineering with AI to create applications th
 <tr>
 <td width="50%">
 
-### 🛠️ Developer Projects
+## ⚡ QUICKGIG
 
-I learn best by building — experimenting with new technologies and turning ideas into working prototypes.
+**Youth Opportunity Marketplace**
+
+A marketplace concept connecting young people with short-term opportunities.
+
+`React` `Flask` `REST API`
 
 </td>
+
 <td width="50%">
 
-### 💡 Digital Solutions
+## 🍳 RECIPE ROOM
 
-Interested in building practical technology that solves problems for businesses, communities and everyday users.
+**Full-Stack Recipe Platform**
+
+A collaborative recipe application built around discovering and managing recipes.
+
+`React` `Flask` `PostgreSQL`
 
 </td>
 </tr>
 </table>
 
----
-
-# 🔥 Featured Projects
-
-### 👁️ Artificial Vision System
-
-An assistive technology project designed to help visually impaired users interact with their environment using computer vision, sensors and audio feedback.
-
-**Focus:** Computer Vision • AI • ESP32 • OCR • Python
+> **More projects →** check the pinned repositories below.
 
 ---
 
-### 🤝 Harambee
-
-A digital donation platform designed to simplify fundraising and donation management.
-
-**Features:** M-Pesa Integration • Donation Forms • Admin Dashboard • Receipts • Backend APIs
-
----
-
-### ⚡ QuickGig
-
-A marketplace concept connecting young people with short-term jobs and opportunities.
-
-**Focus:** Marketplace • Full-Stack Development • User Management
-
----
-
-### 🍳 Recipe Room
-
-A full-stack recipe application built around discovering, creating and managing recipes.
-
-**Stack:** React • Flask • PostgreSQL • REST API
-
----
-
-# 🧩 Currently Learning
+# `04 // THE CURRENT OBSESSION`
 
 ```text
-                    ┌───────────────────┐
-                    │    AI ENGINEERING │
-                    └─────────┬─────────┘
-                              │
-              ┌───────────────┼───────────────┐
-              ↓               ↓               ↓
-          LLMs            AI Agents       Automation
-              │               │               │
-              └───────────────┼───────────────┘
-                              ↓
-                     Intelligent Apps
+                     ┌─────────────┐
+                     │     AI      │
+                     └──────┬──────┘
+                            │
+             ┌──────────────┼──────────────┐
+             ↓              ↓              ↓
+          LLMs          AI AGENTS      AUTOMATION
+             │              │              │
+             └──────────────┼──────────────┘
+                            ↓
+                  ┌──────────────────┐
+                  │ INTELLIGENT APPS │
+                  └──────────────────┘
 ```
 
-### My current focus:
+Right now I'm exploring how software can move beyond:
 
-* 🤖 AI Agents
+`user clicks → application responds`
+
+toward:
+
+`user asks → AI understands → AI reasons → AI acts → application responds`
+
+### Things I'm exploring
+
 * 🧠 Large Language Models
-* 🔗 AI + APIs
+* 🤖 AI Agents
+* 🔗 LLM + API integrations
 * ⚙️ Automation
-* 🏗️ System Design
 * 🐍 Python for AI
-* 🌐 Building AI-powered web applications
+* 🏗️ Backend architecture
+* 🌐 AI-powered web applications
 
 ---
 
-# 📊 GitHub Stats
+# `05 // DEVELOPER STATS`
 
-<p align="center">
+<div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=transparent&title_color=58A6FF&text_color=8B949E&icon_color=58A6FF" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+<br>
 
-</p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=transparent&title_color=58A6FF&text_color=8B949E" />
 
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
-
-</p>
+</div>
 
 ---
 
-# 📈 My Developer Journey
+# `06 // 2026.EXE`
 
 ```text
-2024
- │
- ├── Started strengthening programming fundamentals
- │
- ↓
-2025
- │
- ├── Full-Stack Development
- ├── React
- ├── Flask
- ├── PostgreSQL
- └── Real-world projects
- │
- ↓
-2026
- │
- ├── Software Engineering
- ├── Full-Stack Applications
- ├── AI Development
- ├── AI Agents
- └── Building bigger projects
- │
- ↓
-NEXT
- │
- └── 🚀 Building intelligent software
+┌─────────────────────────────────────────────────────────────┐
+│                     CHARACTER DEVELOPMENT                   │
+├─────────────────────────────────────────────────────────────┤
+│                                                             │
+│  FULL-STACK        ████████████████████░░   90%             │
+│  REACT             ████████████████████░░   90%             │
+│  PYTHON            ███████████████████░░░   85%             │
+│  BACKEND           █████████████████░░░░░   80%             │
+│  DATABASES         ████████████████░░░░░░   75%             │
+│  AI                █████████████░░░░░░░░░   65%             │
+│  AI AGENTS         █████████░░░░░░░░░░░░   45%             │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+```
+
+> The numbers are intentionally unofficial.
+>
+> They're a snapshot of where I'm pushing myself next.
+
+---
+
+# `07 // DEVELOPER STATS — IRL`
+
+```text
+╭────────────────────────────────────────────────────────────╮
+│                                                            │
+│  MOST USED LANGUAGE       Python / JavaScript              │
+│                                                            │
+│  FAVORITE FRONTEND        React                            │
+│                                                            │
+│  BACKEND WEAPON           Flask                            │
+│                                                            │
+│  DATABASE OF CHOICE       PostgreSQL                       │
+│                                                            │
+│  CURRENT OBSESSION        AI Agents                        │
+│                                                            │
+│  BIGGEST ENEMY            "It works on my machine."        │
+│                                                            │
+│  DEBUGGING METHOD         Stare → Google → AI → Fix        │
+│                                                            │
+│  DEFAULT MODE             BUILD SOMETHING                 │
+│                                                            │
+╰────────────────────────────────────────────────────────────╯
 ```
 
 ---
 
-# 🧪 How I Like to Work
+# `08 // BUILD PHILOSOPHY`
 
 ```text
-        IDEA
-          │
-          ▼
-      RESEARCH
-          │
-          ▼
-        BUILD
-          │
-          ▼
-        TEST
-          │
-          ▼
-       DEBUG
-          │
-          ▼
-       IMPROVE
-          │
-          └──────────────► REPEAT
+                    HAVE AN IDEA
+                         │
+                         ▼
+                      BUILD IT
+                         │
+                         ▼
+                     BREAK IT
+                         │
+                         ▼
+                    DEBUG IT
+                         │
+                         ▼
+                   UNDERSTAND IT
+                         │
+                         ▼
+                    IMPROVE IT
+                         │
+                         ▼
+                     SHIP IT 🚀
 ```
 
-I don't believe you need to know everything before building something.
+I don't want to spend forever preparing to build.
 
-**Build it. Break it. Understand why. Fix it. Build something better.**
+**I'd rather build → fail → understand → rebuild.**
 
----
-
-# 🏆 GitHub Activity
-
-<p align="center">
-
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME\&theme=tokyo-night\&hide_border=true)](https://github.com/YOUR_USERNAME)
-
-</p>
+That's where most of the learning happens.
 
 ---
 
-# 💻 Technologies I'm Exploring
+# `09 // SIDE QUESTS`
 
-<p align="center">
+```text
+[✓] Build another React app
 
-<img src="https://skillicons.dev/icons?i=python,javascript,react,flask,postgres,git,github,vscode" />
+[✓] Break an API
 
-</p>
+[✓] Fix the API
 
-<p align="center">
+[✓] Question why JavaScript works
 
-<strong>React</strong> • <strong>Python</strong> • <strong>Flask</strong> • <strong>PostgreSQL</strong> • <strong>JavaScript</strong> • <strong>REST APIs</strong> • <strong>Git</strong> • <strong>AI</strong>
+[ ] Build an AI agent that actually does something useful
 
-</p>
+[ ] Build something people genuinely use
 
----
+[ ] Make something I didn't think I could build
 
-# 🌍 Beyond Code
-
-I'm interested in the intersection between:
-
-**Technology × Business × AI × Real-world Problems**
-
-The goal isn't just to write more code.
-
-The goal is to build things that are **useful**.
+[ ] Repeat
+```
 
 ---
 
-# 🤝 Let's Connect
+# `10 // CONNECTION ESTABLISHED`
 
-I'm always interested in meeting other developers, collaborating on projects, discussing ideas, and learning new technologies.
+<div align="center">
 
-<p align="center">
+### Wanna build something?
+
+<br>
 
 <a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <a href="https://linkedin.com/in/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LINKEDIN-111111?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="https://your-portfolio-url.com">
-<img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" />
+<a href="https://yourportfolio.com">
+<img src="https://img.shields.io/badge/PORTFOLIO-111111?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
 
-</p>
+<br><br>
 
----
+```text
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║        BUILDING TODAY.                                       ║
+║        LEARNING TOMORROW.                                    ║
+║        SHIPPING WHAT'S NEXT.                                 ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
+```
 
-<p align="center">
+### `BILL.EXE // END OF TRANSMISSION`
 
-### 🚀 Building today. Learning tomorrow. Creating what comes next.
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=blue" />
-
-</p>
+</div>
