@@ -1,354 +1,278 @@
 <div align="center">
 
-```text
-██████╗ ██╗██╗     ██╗
-██╔══██╗██║██║     ██║
-██████╔╝██║██║     ██║
-██╔══██╗██║██║     ██║
-██████╔╝██║███████╗██║
-╚═════╝ ╚═╝╚══════╝╚═╝
-```
+# 👋 HEY, I'M BILL!
 
-# `BILL.EXE`
-
-### SOFTWARE ENGINEER · FULL-STACK BUILDER · AI EXPLORER
-
-`Nairobi, Kenya` → `the internet`
+### `software engineer` · `builder` · `professional bug creator`
 
 <br>
 
-**STATUS**
-
-`● ONLINE`
-
-**CURRENT MISSION**
-
-`BUILDING INTELLIGENT SOFTWARE`
-
-</div>
-
----
-
-```text
-┌─────────────────────────────────────────────────────────────┐
-│                                                             │
-│   > whoami                                                  │
-│                                                             │
-│   Bill Sebastian                                            │
-│   Software Engineer & Builder                               │
-│                                                             │
-│   I like turning random ideas into things that actually     │
-│   work.                                                     │
-│                                                             │
-│   Currently somewhere between full-stack development,       │
-│   artificial intelligence and "wait... I can build that?"   │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
-```
-
-## `01 // CURRENTLY_RUNNING`
-
-```text
-┌───────────────────────┬─────────────────────────────────────┐
-│ PROCESS               │ STATUS                              │
-├───────────────────────┼─────────────────────────────────────┤
-│ Full-Stack Development│ ████████████████████░  RUNNING      │
-│ AI Engineering        │ ████████████████░░░░  LEARNING      │
-│ React                 │ ████████████████████  SHIPPING      │
-│ Python                │ ███████████████████░  BUILDING      │
-│ AI Agents             │ ███████████░░░░░░░░  EXPLORING     │
-│ System Design         │ ████████░░░░░░░░░░░  LOADING       │
-└───────────────────────┴─────────────────────────────────────┘
-```
-
----
-
-# `02 // TECH INVENTORY`
-
-### `FRONTEND`
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,vite" />
-</p>
-
-### `BACKEND`
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,flask,nodejs" />
-</p>
-
-### `DATABASE`
-
-<p>
-<img src="https://skillicons.dev/icons?i=postgres,sqlite" />
-</p>
-
-### `TOOLS`
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,wordpress" />
-</p>
-
-```text
-┌─────────────────────────────────────────────────────────────┐
-│                                                             │
-│  I don't collect technologies.                              │
-│                                                             │
-│  I collect problems worth solving.                          │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
-```
-
----
-
-# `03 // SELECTED BUILDS`
-
-<table>
-<tr>
-<td width="50%">
-
-## 👁️ VISION
-
-**Artificial Vision System**
-
-Computer vision + sensors + audio feedback designed around assistive technology.
-
-`AI` `Computer Vision` `Python` `ESP32`
-
-</td>
-
-<td width="50%">
-
-## 🤝 HARAMBEE
-
-**Digital Donation Platform**
-
-A platform for digitizing fundraising, donations and donation management.
-
-`React` `Flask` `PostgreSQL` `M-Pesa`
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-## ⚡ QUICKGIG
-
-**Youth Opportunity Marketplace**
-
-A marketplace concept connecting young people with short-term opportunities.
-
-`React` `Flask` `REST API`
-
-</td>
-
-<td width="50%">
-
-## 🍳 RECIPE ROOM
-
-**Full-Stack Recipe Platform**
-
-A collaborative recipe application built around discovering and managing recipes.
-
-`React` `Flask` `PostgreSQL`
-
-</td>
-</tr>
-</table>
-
-> **More projects →** check the pinned repositories below.
-
----
-
-# `04 // THE CURRENT OBSESSION`
-
-```text
-                     ┌─────────────┐
-                     │     AI      │
-                     └──────┬──────┘
-                            │
-             ┌──────────────┼──────────────┐
-             ↓              ↓              ↓
-          LLMs          AI AGENTS      AUTOMATION
-             │              │              │
-             └──────────────┼──────────────┘
-                            ↓
-                  ┌──────────────────┐
-                  │ INTELLIGENT APPS │
-                  └──────────────────┘
-```
-
-Right now I'm exploring how software can move beyond:
-
-`user clicks → application responds`
-
-toward:
-
-`user asks → AI understands → AI reasons → AI acts → application responds`
-
-### Things I'm exploring
-
-* 🧠 Large Language Models
-* 🤖 AI Agents
-* 🔗 LLM + API integrations
-* ⚙️ Automation
-* 🐍 Python for AI
-* 🏗️ Backend architecture
-* 🌐 AI-powered web applications
-
----
-
-# `05 // DEVELOPER STATS`
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=transparent&title_color=58A6FF&text_color=8B949E&icon_color=58A6FF" />
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=transparent&title_color=58A6FF&text_color=8B949E" />
-
-</div>
-
----
-
-# `06 // 2026.EXE`
-
-```text
-┌─────────────────────────────────────────────────────────────┐
-│                     CHARACTER DEVELOPMENT                   │
-├─────────────────────────────────────────────────────────────┤
-│                                                             │
-│  FULL-STACK        ████████████████████░░   90%             │
-│  REACT             ████████████████████░░   90%             │
-│  PYTHON            ███████████████████░░░   85%             │
-│  BACKEND           █████████████████░░░░░   80%             │
-│  DATABASES         ████████████████░░░░░░   75%             │
-│  AI                █████████████░░░░░░░░░   65%             │
-│  AI AGENTS         █████████░░░░░░░░░░░░   45%             │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
-```
-
-> The numbers are intentionally unofficial.
->
-> They're a snapshot of where I'm pushing myself next.
-
----
-
-# `07 // DEVELOPER STATS — IRL`
-
-```text
-╭────────────────────────────────────────────────────────────╮
-│                                                            │
-│  MOST USED LANGUAGE       Python / JavaScript              │
-│                                                            │
-│  FAVORITE FRONTEND        React                            │
-│                                                            │
-│  BACKEND WEAPON           Flask                            │
-│                                                            │
-│  DATABASE OF CHOICE       PostgreSQL                       │
-│                                                            │
-│  CURRENT OBSESSION        AI Agents                        │
-│                                                            │
-│  BIGGEST ENEMY            "It works on my machine."        │
-│                                                            │
-│  DEBUGGING METHOD         Stare → Google → AI → Fix        │
-│                                                            │
-│  DEFAULT MODE             BUILD SOMETHING                 │
-│                                                            │
-╰────────────────────────────────────────────────────────────╯
-```
-
----
-
-# `08 // BUILD PHILOSOPHY`
-
-```text
-                    HAVE AN IDEA
-                         │
-                         ▼
-                      BUILD IT
-                         │
-                         ▼
-                     BREAK IT
-                         │
-                         ▼
-                    DEBUG IT
-                         │
-                         ▼
-                   UNDERSTAND IT
-                         │
-                         ▼
-                    IMPROVE IT
-                         │
-                         ▼
-                     SHIP IT 🚀
-```
-
-I don't want to spend forever preparing to build.
-
-**I'd rather build → fail → understand → rebuild.**
-
-That's where most of the learning happens.
-
----
-
-# `09 // SIDE QUESTS`
-
-```text
-[✓] Build another React app
-
-[✓] Break an API
-
-[✓] Fix the API
-
-[✓] Question why JavaScript works
-
-[ ] Build an AI agent that actually does something useful
-
-[ ] Build something people genuinely use
-
-[ ] Make something I didn't think I could build
-
-[ ] Repeat
-```
-
----
-
-# `10 // CONNECTION ESTABLISHED`
-
-<div align="center">
-
-### Wanna build something?
-
-<br>
-
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<a href="https://linkedin.com/in/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/LINKEDIN-111111?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="https://yourportfolio.com">
-<img src="https://img.shields.io/badge/PORTFOLIO-111111?style=for-the-badge&logo=googlechrome&logoColor=white" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&lines=I+build+things+for+the+internet.;Currently+obsessed+with+AI+%F0%9F%A4%96;React+%2B+Python+%2B+coffee+%3D+%E2%9D%A4%EF%B8%8F" />
 
 <br><br>
 
+📍 Nairobi, Kenya   ✦   🌍 Somewhere on the internet
+
+</div>
+
+---
+
+# 🪩 WELCOME TO MY CORNER OF THE INTERNET
+
 ```text
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║        BUILDING TODAY.                                       ║
-║        LEARNING TOMORROW.                                    ║
-║        SHIPPING WHAT'S NEXT.                                 ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
+╭─────────────────────────────────────────────────────────────╮
+│                                                             │
+│   Hi, I'm Bill.                                             │
+│                                                             │
+│   I build web apps, break things, fix them, and occasionally │
+│   wonder why I decided to become a developer.               │
+│                                                             │
+│   I'm currently exploring the intersection of:              │
+│                                                             │
+│        🧑‍💻 SOFTWARE  ×  🤖 AI  ×  💡 RANDOM IDEAS          │
+│                                                             │
+╰─────────────────────────────────────────────────────────────╯
 ```
 
-### `BILL.EXE // END OF TRANSMISSION`
+I'm a software engineering student and full-stack developer who likes turning **"what if we built..."** into actual software.
+
+Right now I'm diving deeper into **AI, AI agents, automation and intelligent applications.**
+
+---
+
+# 🎨 MY TECH PALETTE
+
+<div align="center">
+
+### `I SPEAK...`
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=react,js,html,css,python,flask,postgres,sqlite,git,github,vscode" />
+
+<br><br>
+
+`React` · `JavaScript` · `Python` · `Flask` · `PostgreSQL` · `REST APIs` · `Git`
+
+</div>
+
+<br>
+
+<div align="center">
+
+🟣 **Frontend**
+
+🟢 **Backend**
+
+🟠 **Database**
+
+🔵 **Tools**
+
+🩷 **Currently learning**
+
+</div>
+
+---
+
+# 🚀 STUFF I'VE BUILT
+
+### 👁️ `VISION`
+
+> **Making computers see so people can experience the world differently.**
+
+An assistive technology project combining computer vision, sensors, OCR and audio feedback.
+
+**STACK**
+
+`Python` `Computer Vision` `ESP32` `OCR` `AI`
+
+---
+
+### 🤝 `HARAMBEE`
+
+> **Turning digital donations into something simpler.**
+
+A fundraising platform designed around donations, M-Pesa integration, receipts and administration.
+
+**STACK**
+
+`React` `Flask` `PostgreSQL` `M-Pesa`
+
+---
+
+### ⚡ `QUICKGIG`
+
+> **What if finding a small job was as easy as finding a product online?**
+
+A marketplace concept connecting young people with short-term opportunities.
+
+**STACK**
+
+`React` `Flask` `REST API`
+
+---
+
+### 🍳 `RECIPE ROOM`
+
+> **Because deciding what to eat shouldn't require 47 browser tabs.**
+
+A full-stack recipe platform for discovering and managing recipes.
+
+**STACK**
+
+`React` `Flask` `PostgreSQL`
+
+---
+
+# 🧠 CURRENTLY OBSESSED WITH...
+
+<div align="center">
+
+## 🤖 AI AGENTS
+
+### `what if software could actually DO things?`
+
+</div>
+
+```text
+        USER
+          │
+          ▼
+       ┌──────┐
+       │  AI  │
+       └──┬───┘
+          │
+     ┌────┼────┐
+     ▼    ▼    ▼
+   THINK  USE  ACT
+          │
+          ▼
+       RESULT ✨
+```
+
+Currently exploring:
+
+🧠 LLMs
+🤖 AI Agents
+🔗 APIs + AI
+⚙️ Automation
+🐍 Python for AI
+🏗️ System Design
+🌐 AI-powered applications
+
+---
+
+# 💅 DEVELOPER CHARACTER SHEET
+
+| STAT                        | LEVEL           |
+| --------------------------- | --------------- |
+| 🧑‍💻 Coding                | █████████░      |
+| 🐛 Debugging                | ██████████      |
+| ☕ Coffee consumption        | ████████████    |
+| 🧠 Curiosity                | ███████████     |
+| 🤖 AI obsession             | █████████░      |
+| 📚 Understanding JavaScript | `loading...`    |
+| 🚀 Ideas                    | `∞`             |
+| 💤 Sleep                    | `404 NOT FOUND` |
+
+---
+
+# 🎮 SIDE QUESTS
+
+```text
+╭──────────────────────────────────────────────╮
+│                                              │
+│  ☐ Build an AI agent that is actually useful │
+│                                              │
+│  ☐ Ship a project people actually use       │
+│                                              │
+│  ☐ Make something unnecessarily complicated  │
+│                                              │
+│  ☐ Learn something I have no business        │
+│    knowing                                   │
+│                                              │
+│  ☐ Touch grass                              │
+│                                              │
+╰──────────────────────────────────────────────╯
+```
+
+**Current progress:**
+
+`██████████████████░░` **still figuring it out**
+
+---
+
+# 📊 THE NUMBERS™️
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=transparent" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=transparent" />
+
+</div>
+
+---
+
+# 🌱 MY DEVELOPER ARC
+
+```text
+        "I want to learn coding"
+                    ↓
+             "I can code"
+                    ↓
+          "Why isn't this working?"
+                    ↓
+          "Oh... I broke everything"
+                    ↓
+             "I fixed it!"
+                    ↓
+        "Wait, I can build this?"
+                    ↓
+              🚀 BUILD
+```
+
+I'm less interested in memorizing syntax and more interested in **building things until the concepts stick.**
+
+---
+
+# 🧃 RANDOM BILL FACTS
+
+> 🧩 I learn best by building.
+
+> 🛠️ My favorite way to learn a technology is to make something with it.
+
+> 🐛 Bugs are just unpaid debugging tutorials.
+
+> 💡 Most of my projects start with "this would be cool..."
+
+> 🤖 Currently trying to figure out how far AI can take software development.
+
+---
+
+# 🌐 FIND ME ON THE INTERNET
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GITHUB-111111?style=for-the-badge\&logo=github)](https://github.com/YOUR_USERNAME)
+
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/YOUR_USERNAME)
+
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-FF6B6B?style=for-the-badge\&logo=googlechrome\&logoColor=white)](https://yourportfolio.com)
+
+</div>
+
+---
+
+<div align="center">
+
+# ✨ KEEP SCROLLING. THERE'S PROBABLY A BUG SOMEWHERE.
+
+<br>
+
+### `BUILD → BREAK → LEARN → REPEAT`
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge" />
 
 </div>
