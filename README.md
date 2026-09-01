@@ -262,6 +262,6 @@ I'm less interested in memorizing syntax and more interested in **building thing
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=SebastianO6&style=for-the-badge" />
 
 </div>
