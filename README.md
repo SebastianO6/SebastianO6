@@ -75,17 +75,6 @@ Right now I'm diving deeper into **AI, AI agents, automation and intelligent app
 
 # 🚀 STUFF I'VE BUILT
 
-### 👁️ `VISION`
-
-> **Making computers see so people can experience the world differently.**
-
-An assistive technology project combining computer vision, sensors, OCR and audio feedback.
-
-**STACK**
-
-`Python` `Computer Vision` `ESP32` `OCR` `AI`
-
----
 
 ### 🤝 `HARAMBEE`
 
@@ -99,11 +88,11 @@ A fundraising platform designed around donations, M-Pesa integration, receipts a
 
 ---
 
-### ⚡ `QUICKGIG`
+### ⚡ `SICC AI`
 
-> **What if finding a small job was as easy as finding a product online?**
+> **A cybersecurity and Ai Training company website**
 
-A marketplace concept connecting young people with short-term opportunities.
+A place for you to learn how the world is evolving technologically.
 
 **STACK**
 
@@ -253,11 +242,11 @@ I'm less interested in memorizing syntax and more interested in **building thing
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GITHUB-111111?style=for-the-badge\&logo=github)](https://github.com/YOUR_USERNAME)
+[![GitHub](https://img.shields.io/badge/GITHUB-111111?style=for-the-badge\&logo=github)]([https://github.com/YOUR_USERNAME](https://github.com/SebastianO6))
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/YOUR_USERNAME)
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-FF6B6B?style=for-the-badge\&logo=googlechrome\&logoColor=white)](https://yourportfolio.com)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-FF6B6B?style=for-the-badge\&logo=googlechrome\&logoColor=white)](https://portfolio-coral-eta-95.vercel.app/https://yourportfolio.com)
 
 </div>
 
