@@ -59,14 +59,6 @@ Right now I'm diving deeper into **AI, AI agents, automation and intelligent app
 
 <div align="center">
 
-🟣 **Frontend**
-
-🟢 **Backend**
-
-🟠 **Database**
-
-🔵 **Tools**
-
 🩷 **Currently learning**
 
 </div>
@@ -100,11 +92,11 @@ A place for you to learn how the world is evolving technologically.
 
 ---
 
-### 🍳 `RECIPE ROOM`
+### 🍳 `E-Gym`
 
-> **Because deciding what to eat shouldn't require 47 browser tabs.**
+> **Less paperwork. More reps. Better progress.**
 
-A full-stack recipe platform for discovering and managing recipes.
+A modern gym management platform built to simplify member management, workout tracking, and gym operations through an intuitive web interface.
 
 **STACK**
 
