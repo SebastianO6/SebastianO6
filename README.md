@@ -22,7 +22,7 @@
 class Bill:
     role     = "Full-stack developer"
     location = "Nairobi, KE"
-    stack    = ["React", "Python", "Flask", "PostgreSQL"]
+    stack    = ["React", "Typescript", "Python", "Flask", "PostgreSQL"]
     focus    = ["LLMs", "AI agents", "automation", "system design"]
 
     def currently(self):
