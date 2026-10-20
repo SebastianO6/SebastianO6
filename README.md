@@ -1,197 +1,94 @@
 <div align="center">
 
-# 👋 HEY, I'M BILL!
+# Hey, I'm Bill
 
-### `software engineer` · `builder` · `professional bug creator`
+`software engineer` · `builder` · `professional bug creator`
 
-<br>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=520&lines=I+build+things+for+the+internet.;Currently+obsessed+with+AI+agents.;React+%2B+Python+%2B+coffee+%3D+shipped." alt="Typing animation" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&lines=I+build+things+for+the+internet.;Currently+obsessed+with+AI+%F0%9F%A4%96;React+%2B+Python+%2B+coffee+%3D+%E2%9D%A4%EF%B8%8F" />
-
-<br><br>
-
-📍 Nairobi, Kenya   ✦   🌍 Somewhere on the internet
-
-</div>
-
----
-
-# 🪩 WELCOME TO MY CORNER OF THE INTERNET
-
-I'm a software engineering student and full-stack developer who likes turning **"what if we built..."** into actual software.
-
-Right now I'm diving deeper into **AI, AI agents, automation and intelligent applications.**
-
----
-
-# 🎨 MY TECH PALETTE
-
-<div align="center">
-
-### `I SPEAK...`
+<sub>📍 Nairobi, Kenya &nbsp;·&nbsp; 🌍 Somewhere on the internet</sub>
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=react,js,html,css,python,flask,postgres,sqlite,git,github,vscode" />
-
-<br><br>
-
-`React` · `JavaScript` · `Python` · `Flask` · `PostgreSQL` · `REST APIs` · `Git`
-
-</div>
-
-<br>
-
-<div align="center">
-
-🩷 **Currently learning**
+[![Portfolio](https://img.shields.io/badge/portfolio-111111?style=flat-square&logo=googlechrome&logoColor=white)](https://portfolio-coral-eta-95.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_USERNAME)
+[![GitHub](https://img.shields.io/badge/github-111111?style=flat-square&logo=github)](https://github.com/SebastianO6)
 
 </div>
 
 ---
 
-# 🚀 STUFF I'VE BUILT
+```python
+class Bill:
+    role     = "Full-stack developer"
+    location = "Nairobi, KE"
+    stack    = ["React", "Python", "Flask", "PostgreSQL"]
+    focus    = ["LLMs", "AI agents", "automation", "system design"]
 
-
-### 🤝 `HARAMBEE`
-
-> **Turning digital donations into something simpler.**
-
-A fundraising platform designed around donations, M-Pesa integration, receipts and administration.
-
-**STACK**
-
-`React` `Flask` `PostgreSQL` `M-Pesa`
-
----
-
-### ⚡ `SICC AI`
-
-> **A cybersecurity and Ai Training company website**
-
-A place for you to learn how the world is evolving technologically.
-
-**STACK**
-
-`React` `Flask` `REST API`
-
----
-
-### 🍳 `E-Gym`
-
-> **Less paperwork. More reps. Better progress.**
-
-A modern gym management platform built to simplify member management, workout tracking, and gym operations through an intuitive web interface.
-
-**STACK**
-
-`React` `Flask` `PostgreSQL`
-
----
-
-# 🧠 CURRENTLY OBSESSED WITH...
-
-<div align="center">
-
-## 🤖 AI AGENTS
-
-### `what if software could actually DO things?`
-
-</div>
-
-```text
-        USER
-          │
-          ▼
-       ┌──────┐
-       │  AI  │
-       └──┬───┘
-          │
-     ┌────┼────┐
-     ▼    ▼    ▼
-   THINK  USE  ACT
-          │
-          ▼
-       RESULT ✨
+    def currently(self):
+        return "building agents that call tools and finish real tasks"
 ```
 
-Currently exploring:
+## Tech stack
 
-🧠 LLMs
-🤖 AI Agents
-🔗 APIs + AI
-⚙️ Automation
-🐍 Python for AI
-🏗️ System Design
-🌐 AI-powered applications
+<img src="https://skillicons.dev/icons?i=react,js,html,css,python,flask,postgres,sqlite,git,github,vscode" alt="Tech stack icons" />
 
----
+| Area      | Tools                                          |
+| --------- | ---------------------------------------------- |
+| Frontend  | React, JavaScript, HTML, CSS, Typescript       |
+| Backend   | Python, Flask, REST APIs                       |
+| Databases | PostgreSQL, SQLite                             |
+| Tooling   | Git, GitHub, VS Code                           |
+| Exploring | LLM APIs, agent workflows, automation          |
+| CMS       | Wordpress, Elementor                           |
 
-# 💅 DEVELOPER CHARACTER SHEET
+## Projects
 
-| STAT                        | LEVEL           |
-| --------------------------- | --------------- |
-| 🧑‍💻 Coding                | █████████░      |
-| 🐛 Debugging                | ██████████      |
-| ☕ Coffee consumption        | ████████████    |
-| 🧠 Curiosity                | ███████████     |
-| 🤖 AI obsession             | █████████░      |
-| 📚 Understanding JavaScript | `loading...`    |
-| 🚀 Ideas                    | `∞`             |
-| 💤 Sleep                    | `404 NOT FOUND` |
+| Project | What it does | Stack |
+| ------- | ------------ | ----- |
+| **[Harambee](https://github.com/SebastianO6)** | Fundraising platform with M-Pesa payment integration, donation receipts and an admin dashboard. | React, Flask, PostgreSQL, M-Pesa API |
+| **[E-Gym](https://github.com/SebastianO6)** | Gym management system covering member records, workout tracking and day-to-day operations. | React, Flask, PostgreSQL |
+| **[SICC AI](https://github.com/SebastianO6)** | Website for a cybersecurity and AI training company. | React, Flask, REST API |
 
----
 
-# 🎮 SIDE QUESTS
+## Currently working on
+
+**AI agents.** Learning how to build software that plans, calls tools and acts on the results instead of only returning text.
 
 ```text
-╭──────────────────────────────────────────────╮
-│                                              │
-│  ☐ Build an AI agent that is actually useful │
-│                                              │
-│  ☐ Ship a project people actually use       │
-│                                              │
-│  ☐ Make something unnecessarily complicated  │
-│                                              │
-│  ☐ Learn something I have no business        │
-│    knowing                                   │
-│                                              │
-│  ☐ Touch grass                              │
-│                                              │
-╰──────────────────────────────────────────────╯
+user request
+    │
+    ▼
+  LLM ──► plan ──► tool call ──► observe result
+    ▲                                  │
+    └──────────── iterate ◄────────────┘
+    │
+    ▼
+  final output
 ```
 
-**Current progress:**
+- LLM APIs and prompt design
+- Tool use and agent loops
+- Python for automation and AI workflows
+- System design and API architecture
 
-`██████████████████░░` **still figuring it out**
+## Goals
 
+- [ ] Ship an AI agent that solves a real problem
+- [ ] Get a project into the hands of real users
+- [ ] Contribute to open source
+- [ ] Deepen system design and backend fundamentals
 
----
-
-# 🌐 FIND ME ON THE INTERNET
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GITHUB-111111?style=for-the-badge\&logo=github)]([https://github.com/YOUR_USERNAME](https://github.com/SebastianO6))
-
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/YOUR_USERNAME)
-
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-FF6B6B?style=for-the-badge\&logo=googlechrome\&logoColor=white)](https://portfolio-coral-eta-95.vercel.app/https://yourportfolio.com)
-
-</div>
-
----
+## Stats
 
 <div align="center">
 
-# ✨ KEEP SCROLLING. THERE'S PROBABLY A BUG SOMEWHERE.
-
-<br>
-
-### `BUILD → BREAK → LEARN → REPEAT`
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=SebastianO6&style=for-the-badge" />
+<img src="https://github-readme-stats.vercel.app/api?username=SebastianO6&show_icons=true&hide_border=true&theme=transparent" alt="GitHub stats" height="150" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SebastianO6&layout=compact&hide_border=true&theme=transparent" alt="Top languages" height="150" />
 
 </div>
+
+## Contact
+
+Open to internships, collaborations and interesting problems.
+Reach me on [LinkedIn](https://linkedin.com/in/YOUR_USERNAME) or through my [portfolio](https://portfolio-coral-eta-95.vercel.app/).
