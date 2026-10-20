@@ -18,21 +18,6 @@
 
 # 🪩 WELCOME TO MY CORNER OF THE INTERNET
 
-```text
-╭─────────────────────────────────────────────────────────────╮
-│                                                             │
-│   Hi, I'm Bill.                                             │
-│                                                             │
-│   I build web apps, break things, fix them, and occasionally │
-│   wonder why I decided to become a developer.               │
-│                                                             │
-│   I'm currently exploring the intersection of:              │
-│                                                             │
-│        🧑‍💻 SOFTWARE  ×  🤖 AI  ×  💡 RANDOM IDEAS          │
-│                                                             │
-╰─────────────────────────────────────────────────────────────╯
-```
-
 I'm a software engineering student and full-stack developer who likes turning **"what if we built..."** into actual software.
 
 Right now I'm diving deeper into **AI, AI agents, automation and intelligent applications.**
@@ -180,39 +165,6 @@ Currently exploring:
 
 `██████████████████░░` **still figuring it out**
 
-# 🌱 MY DEVELOPER ARC
-
-```text
-        "I want to learn coding"
-                    ↓
-             "I can code"
-                    ↓
-          "Why isn't this working?"
-                    ↓
-          "Oh... I broke everything"
-                    ↓
-             "I fixed it!"
-                    ↓
-        "Wait, I can build this?"
-                    ↓
-              🚀 BUILD
-```
-
-I'm less interested in memorizing syntax and more interested in **building things until the concepts stick.**
-
----
-
-# 🧃 RANDOM BILL FACTS
-
-> 🧩 I learn best by building.
-
-> 🛠️ My favorite way to learn a technology is to make something with it.
-
-> 🐛 Bugs are just unpaid debugging tutorials.
-
-> 💡 Most of my projects start with "this would be cool..."
-
-> 🤖 Currently trying to figure out how far AI can take software development.
 
 ---
 
