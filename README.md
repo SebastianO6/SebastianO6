@@ -67,15 +67,6 @@ class Bill:
 
 Learning to build software that plans, calls tools and acts on the results instead of only returning text.
 
-```mermaid
-%%{init: {'theme':'dark','themeVariables':{'primaryColor':'#0d1117','primaryBorderColor':'#00ff41','primaryTextColor':'#c9d1d9','lineColor':'#00ff41','secondaryColor':'#0d1117','tertiaryColor':'#0d1117'}}}%%
-flowchart LR
-    U([user request]) --> L{{LLM}}
-    L -->|plan| T[[tool call]]
-    T -->|observe result| L
-    L -->|done| O([final output])
-```
-
 <details>
 <summary><code>$ cat todo.md</code> &nbsp;(click to expand)</summary>
 
