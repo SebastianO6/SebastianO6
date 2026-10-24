@@ -1,94 +1,116 @@
 <div align="center">
 
-# Hey, I'm Bill
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,100:0d1117&height=100&section=header" width="100%" alt="" />
 
-`software engineer` · `builder` · `professional bug creator`
+```text
+██████╗ ██╗██╗     ██╗     
+██╔══██╗██║██║     ██║     
+██████╔╝██║██║     ██║     
+██╔══██╗██║██║     ██║     
+██████╔╝██║███████╗███████╗
+╚═════╝ ╚═╝╚══════╝╚══════╝
+```
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=520&lines=I+build+things+for+the+internet.;Currently+obsessed+with+AI+agents.;React+%2B+Python+%2B+coffee+%3D+shipped." alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=520&lines=%3E+I+build+things+for+the+internet.;%3E+Currently+obsessed+with+AI+agents.;%3E+React+%2B+Python+%2B+coffee+%3D+shipped." alt="Typing animation" />
 
-<sub>📍 Nairobi, Kenya &nbsp;·&nbsp; 🌍 Somewhere on the internet</sub>
+<sub>Nairobi, Kenya &nbsp;//&nbsp; somewhere on the internet</sub>
 
 <br>
 
-[![Portfolio](https://img.shields.io/badge/portfolio-111111?style=flat-square&logo=googlechrome&logoColor=white)](https://portfolio-coral-eta-95.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_USERNAME)
-[![GitHub](https://img.shields.io/badge/github-111111?style=flat-square&logo=github)](https://github.com/SebastianO6)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-0d1117?style=for-the-badge&logo=googlechrome&logoColor=00ff41)](https://portfolio-coral-eta-95.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0d1117?style=for-the-badge&logo=linkedin&logoColor=00ff41)](https://linkedin.com/in/YOUR_USERNAME)
+[![GitHub](https://img.shields.io/badge/GITHUB-0d1117?style=for-the-badge&logo=github&logoColor=00ff41)](https://github.com/SebastianO6)
 
 </div>
 
 ---
 
+```bash
+bill@nairobi:~$ whoami
+bill — software engineer · builder · professional bug creator
+```
+
 ```python
 class Bill:
     role     = "Full-stack developer"
+    status   = "Software engineering student"
     location = "Nairobi, KE"
-    stack    = ["React", "Typescript", "Python", "Flask", "PostgreSQL"]
+    stack    = ["React", "TypeScript", "Python", "Flask", "PostgreSQL"]
     focus    = ["LLMs", "AI agents", "automation", "system design"]
 
     def currently(self):
         return "building agents that call tools and finish real tasks"
 ```
 
-## Tech stack
+## `$ cat stack.conf`
 
-<img src="https://skillicons.dev/icons?i=react,js,html,css,python,flask,postgres,sqlite,git,github,vscode" alt="Tech stack icons" />
+<img src="https://skillicons.dev/icons?i=react,ts,js,html,css,python,flask,postgres,sqlite,wordpress,git,github,vscode&theme=dark" alt="Tech stack icons" />
 
-| Area      | Tools                                          |
-| --------- | ---------------------------------------------- |
-| Frontend  | React, JavaScript, HTML, CSS, Typescript       |
-| Backend   | Python, Flask, REST APIs                       |
-| Databases | PostgreSQL, SQLite                             |
-| Tooling   | Git, GitHub, VS Code                           |
-| Exploring | LLM APIs, agent workflows, automation          |
-| CMS       | Wordpress, Elementor                           |
-
-## Projects
-
-| Project | What it does | Stack |
-| ------- | ------------ | ----- |
-| **[Harambee](https://github.com/SebastianO6)** | Fundraising platform with M-Pesa payment integration, donation receipts and an admin dashboard. | React, Flask, PostgreSQL, M-Pesa API |
-| **[E-Gym](https://github.com/SebastianO6)** | Gym management system covering member records, workout tracking and day-to-day operations. | React, Flask, PostgreSQL |
-| **[SICC AI](https://github.com/SebastianO6)** | Website for a cybersecurity and AI training company. | React, Flask, REST API |
-
-
-## Currently working on
-
-**AI agents.** Learning how to build software that plans, calls tools and acts on the results instead of only returning text.
-
-```text
-user request
-    │
-    ▼
-  LLM ──► plan ──► tool call ──► observe result
-    ▲                                  │
-    └──────────── iterate ◄────────────┘
-    │
-    ▼
-  final output
+```ini
+[frontend]    react, typescript, javascript, html, css
+[backend]     python, flask, rest-apis
+[database]    postgresql, sqlite
+[cms]         wordpress, elementor
+[tooling]     git, github, vscode
+[exploring]   llm-apis, agent-workflows, automation
 ```
 
-- LLM APIs and prompt design
-- Tool use and agent loops
-- Python for automation and AI workflows
-- System design and API architecture
+## `$ ls ~/projects`
 
-## Goals
+| Project | Description | Stack |
+| ------- | ----------- | ----- |
+| **[harambee](https://github.com/SebastianO6)** | Fundraising platform with M-Pesa payments, donation receipts and an admin dashboard. | React, Flask, PostgreSQL, M-Pesa API |
+| **[e-gym](https://github.com/SebastianO6)** | Gym management system for member records, workout tracking and daily operations. | React, Flask, PostgreSQL |
+| **[sicc-ai](https://github.com/SebastianO6)** | Website for a cybersecurity and AI training company. | React, Flask, REST API |
+
+## `$ ./agent --architecture`
+
+Learning to build software that plans, calls tools and acts on the results instead of only returning text.
+
+```mermaid
+%%{init: {'theme':'dark','themeVariables':{'primaryColor':'#0d1117','primaryBorderColor':'#00ff41','primaryTextColor':'#c9d1d9','lineColor':'#00ff41','secondaryColor':'#0d1117','tertiaryColor':'#0d1117'}}}%%
+flowchart LR
+    U([user request]) --> L{{LLM}}
+    L -->|plan| T[[tool call]]
+    T -->|observe result| L
+    L -->|done| O([final output])
+```
+
+<details>
+<summary><code>$ cat todo.md</code> &nbsp;(click to expand)</summary>
+
+<br>
 
 - [ ] Ship an AI agent that solves a real problem
 - [ ] Get a project into the hands of real users
 - [ ] Contribute to open source
 - [ ] Deepen system design and backend fundamentals
 
-## Stats
+</details>
+
+## `$ git stats`
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=SebastianO6&show_icons=true&hide_border=true&theme=transparent" alt="GitHub stats" height="150" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SebastianO6&layout=compact&hide_border=true&theme=transparent" alt="Top languages" height="150" />
+<img src="https://github-readme-stats.vercel.app/api?username=SebastianO6&show_icons=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&icon_color=00ff41&border_color=00ff41" alt="GitHub stats" height="160" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SebastianO6&layout=compact&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&border_color=00ff41" alt="Top languages" height="160" />
 
 </div>
 
-## Contact
+## `$ ping bill`
 
 Open to internships, collaborations and interesting problems.
 Reach me on [LinkedIn](https://linkedin.com/in/YOUR_USERNAME) or through my [portfolio](https://portfolio-coral-eta-95.vercel.app/).
+
+<div align="center">
+
+```bash
+$ echo "build → break → learn → repeat"
+$ exit 0
+```
+
+<img src="https://komarev.com/ghpvc/?username=SebastianO6&style=flat-square&color=00ff41&labelColor=0d1117&label=VISITORS" alt="Visitors" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,100:0d1117&height=90&section=footer" width="100%" alt="" />
+
+</div>
